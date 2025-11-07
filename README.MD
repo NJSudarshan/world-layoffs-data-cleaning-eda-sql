@@ -6,7 +6,7 @@ _Analyzing total laid off and percent laid off over different factors to underst
 
 
 ## 📌 Table of Contents
-- <a href="#project-overview">Project Overview</a>
+- <a href="#overview">Overview</a>
 - <a href="#dataset-description">Dataset Description</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
